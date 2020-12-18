@@ -2,7 +2,7 @@
 <img class="fit-picture"
      src="/media/cc0-images/grapefruit-slice-332-332.jpg"
      alt="Grapefruit slice atop a pile of other slices">
-<!--
+
 **sadouni-khouira/sadouni-khouira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
