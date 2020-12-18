@@ -1,4 +1,4 @@
-<p> je suis développeuse </p>
+<p> Le développeur web / la développeuse réalise l’ensemble des fonctionnalités techniques d’un site ou d'une application web.  </p>
 
 <!--
 **sadouni-khouira/sadouni-khouira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
