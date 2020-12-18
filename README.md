@@ -1,5 +1,7 @@
 <p> Le développeur web / la développeuse réalise l’ensemble des fonctionnalités techniques d’un site ou d'une application web.  </p>
-
+<img class="fit-picture"
+     src="/media/cc0-images/grapefruit-slice-332-332.jpg"
+     alt="Grapefruit slice atop a pile of other slices">
 <!--
 **sadouni-khouira/sadouni-khouira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
