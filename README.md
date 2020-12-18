@@ -1,4 +1,6 @@
-###hello! 👋
+<img class="fit-picture"
+     src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fm.onisep.fr%2Fvar%2Fonisep%2Fstorage%2Fimages%2Fmedia%2Fimages%2Fmetier_fiches-ideo%2Fdeveloppeur-informatique%2F17603943-1-fre-FR%2Fdeveloppeur-informatique.jpg&imgrefurl=http%3A%2F%2Fm.onisep.fr%2FRessources%2FUnivers-Metier%2FMetiers%2Fdeveloppeur-developpeuse-informatique&tbnid=aH0xjtQK-XF1iM&vet=10CEIQMyiGAWoXChMI-N6e_J_Y7QIVAAAAAB0AAAAAEAM..i&docid=i4qxN5dqDNqgDM&w=1181&h=784&q=definition%20d%C3%A9veloppeur%20web&client=firefox-b-d&ved=0CEIQMyiGAWoXChMI-N6e_J_Y7QIVAAAAAB0AAAAAEAM"
+     alt="Grapefruit slice atop a pile of other slices">
 
 <!--
 **sadouni-khouira/sadouni-khouira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--<img class="fit-picture"
-     src="/media/cc0-images/grapefruit-slice-332-332.jpg"
-     alt="Grapefruit slice atop a pile of other slices">
-
 -->
