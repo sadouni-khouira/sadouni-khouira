@@ -14,6 +14,22 @@ Je suis développeuse --->
   .Frameworks: Bootstrap, Jquery et Laravel <br/>
   .Mise en place de Responsive Design, mise en place du versionning <br/>                                                  
   .SGBD: HeidiSQL, MySQL <br/>
-  .Certification OPQUAST Maîtrise en qualité de projet Web <br/>
-  .Initiation aux méthodes Agile.  
+   .Initiation aux méthodes Agile. <br/>
+  .Certification OPQUAST "Maîtrise de la qualité en projet Web - V4"<br/>
+       
+         Avancement :100 %
+         Score Moyen :100 / 100
+         Temps passé :6 heures, 23 minutes
+         Moyenne des examens blancs :1000 / 1000
+         Examen :
+         Publier en ligne
+         Score :805 /1000
+         Délivré le :	
+         17 décembre 2020
+         Validité:17 décembre 2025
+         Certificat:MQW-V4-2020
+         Code de vérification:TGDJI1
+   
+   
+    
 </details>
