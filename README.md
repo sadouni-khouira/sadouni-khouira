@@ -14,7 +14,7 @@ Je suis développeuse --->
  <!--- .Frameworks: Bootstrap, Jquery et Laravel <br/>--->
    
   <!---.Mise en place de Responsive Design, mise en place du versionning <br/> --->                                                 
-  .SGBD:     <!----HeidiSQL, MySQL <br/>---->
+  .SGBD:    
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/SQL1.jpeg"> <br/>
    .Initiation aux méthodes Agile. <br/>
    <img src=""> <br/>
