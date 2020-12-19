@@ -18,15 +18,16 @@ Je suis développeuse --->
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/SQL1.jpeg"> <br/>
    .Initiation aux méthodes Agile. <br/>
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/AGIL.jpg"> <br/>
-  .Certification OPQUAST "Maîtrise de la qualité en projet Web - V4"<br/>
-   <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/opquast.png"> <br/>
+   <br/>
+  .Certification OPQUAST "Maîtrise de la qualité en projet Web - V4"<br/><br/> 
+  <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/opquast.png"> <br/>
        
          Avancement :100 %
          Score Moyen :100/100
-         Moyenne des examens blancs :1000 / 1000
+         Moyenne des examens blancs :1000/1000
          Examen :
          Publier en ligne
-         Score :805 /1000
+         Score :805/1000
          Délivré le :	
          17 décembre 2020
          Validité:17 décembre 2025
