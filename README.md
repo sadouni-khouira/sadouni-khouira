@@ -7,7 +7,7 @@ Je suis développeuse --->
   <a href="https://github.com/sadouni-khouira" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/github.png"></a>
   <a href="" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
 </p>
-<bon>
+<detaille>
   <sumary> <strong>Langues et outils:</strong></sumary><br/>
   .Langage de structure, de mise en forme et de programmation:
                HTML5, CSS3, SQL, JavaScript et PHP <br/>
@@ -32,4 +32,4 @@ Je suis développeuse --->
    
    
     
-</bon>
+</detaille>
