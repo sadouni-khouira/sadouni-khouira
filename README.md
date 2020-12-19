@@ -22,8 +22,7 @@ Je suis développeuse --->
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/opquast.png"> <br/>
        
          Avancement :100 %
-         Score Moyen :100 / 100
-         Temps passé :6 heures, 23 minutes
+         Score Moyen :100/100
          Moyenne des examens blancs :1000 / 1000
          Examen :
          Publier en ligne
