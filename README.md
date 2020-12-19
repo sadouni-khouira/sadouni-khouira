@@ -8,13 +8,12 @@ Je suis développeuse --->
   <a href="" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
 </p>
 <details>
-  <sumary> <strong>Langues et outils:</strong></sumary><br/>
-  .Langage de structure, de mise en forme et de programmation:
+  <sumary> <strong>Langues et outils:Langage de structure, de mise en forme et de programmation:</strong></sumary><br/>
               <!--- HTML5, CSS3, SQL, JavaScript et PHP <br/>--->
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/TOUT.png"> <br/>
  <!--- .Frameworks: Bootstrap, Jquery et Laravel <br/>--->
    
-  .Mise en place de Responsive Design, mise en place du versionning <br/>                                                  
+  <!---.Mise en place de Responsive Design, mise en place du versionning <br/> --->                                                 
   .SGBD:     <!----HeidiSQL, MySQL <br/>---->
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/SQL1.jpeg"> <br/>
    .Initiation aux méthodes Agile. <br/>
