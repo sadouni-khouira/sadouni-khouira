@@ -6,7 +6,7 @@ Je suis développeuse
 
 <p align='center'> 
   <a href="https://github.com/sadouni-khouira" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/github.png"></a>
-  <a href="" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin1.png"></a>
+  <a href="" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
 </p>
 <details>
   <sumary> <strong>Ce que j'apprends ces jours-ci : </strong></sumary><br/>
