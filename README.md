@@ -15,8 +15,8 @@ Je suis développeuse --->
  <!--- .Frameworks: Bootstrap, Jquery et Laravel <br/>--->
    <img src=""> <br/>
   .Mise en place de Responsive Design, mise en place du versionning <br/>                                                  
-  .SGBD: HeidiSQL, MySQL <br/>
-   <img src=""> <br/>
+  .SGBD:     <!----HeidiSQL, MySQL <br/>---->
+   <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/SQL1.jpeg"> <br/>
    .Initiation aux méthodes Agile. <br/>
    <img src=""> <br/>
   .Certification OPQUAST "Maîtrise de la qualité en projet Web - V4"<br/>
