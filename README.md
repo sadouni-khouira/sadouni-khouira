@@ -13,19 +13,20 @@ Je suis développeuse --->
               <!--- HTML5, CSS3, SQL, JavaScript et PHP <br/>--->
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/TOUT.png"> <br/>
  <!--- .Frameworks: Bootstrap, Jquery et Laravel <br/>--->
-   <img src=""> <br/>
+   
   .Mise en place de Responsive Design, mise en place du versionning <br/>                                                  
   .SGBD:     <!----HeidiSQL, MySQL <br/>---->
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/SQL1.jpeg"> <br/>
    .Initiation aux méthodes Agile. <br/>
    <img src=""> <br/>
   .Certification OPQUAST "Maîtrise de la qualité en projet Web - V4"<br/>
+   <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/opquast.png"> <br/>
        
          Avancement :100 %
          Score Moyen :100 / 100
          Temps passé :6 heures, 23 minutes
          Moyenne des examens blancs :1000 / 1000
-         Examen :<img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/opquast.png"> <br/>
+         Examen :
          Publier en ligne
          Score :805 /1000
          Délivré le :	
