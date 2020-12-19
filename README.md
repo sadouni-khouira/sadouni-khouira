@@ -9,11 +9,11 @@ Je suis développeuse
 </p>
 <details>
   <sumary> <strong>Ce que j'apprends ces jours-ci : </strong></sumary><br/>
-  -Langage de structure, de mise en forme et de programmation:
+  .Langage de structure, de mise en forme et de programmation:
                HTML5, CSS3, SQL, JavaScript et PHP <br/>
-  -Frameworks: Bootstrap, Jquery et Laravel <br/>
-  -Mise en place de Responsive Design, mise en place du versionning <br/>                                                  
-  -SGBD: HeidiSQL, MySQL <br/>
-  -Certification OPQUAST Maîtrise en qualité de projet Web <br/>
-  -Initiation aux méthodes Agile.  
+  .Frameworks: Bootstrap, Jquery et Laravel <br/>
+  .Mise en place de Responsive Design, mise en place du versionning <br/>                                                  
+  .SGBD: HeidiSQL, MySQL <br/>
+  .Certification OPQUAST Maîtrise en qualité de projet Web <br/>
+  .Initiation aux méthodes Agile.  
 </details>
