@@ -10,9 +10,9 @@ Je suis développeuse --->
 <details>
   <sumary> <strong>Langues et outils:</strong></sumary><br/>
   .Langage de structure, de mise en forme et de programmation:
-               HTML5, CSS3, SQL, JavaScript et PHP <br/>
-   <img src=""> <br/>
-  .Frameworks: Bootstrap, Jquery et Laravel <br/>
+              <!--- HTML5, CSS3, SQL, JavaScript et PHP <br/>--->
+   <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/TOUT.png"> <br/>
+ <!--- .Frameworks: Bootstrap, Jquery et Laravel <br/>--->
    <img src=""> <br/>
   .Mise en place de Responsive Design, mise en place du versionning <br/>                                                  
   .SGBD: HeidiSQL, MySQL <br/>
