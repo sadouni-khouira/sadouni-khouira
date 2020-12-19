@@ -8,7 +8,7 @@ Je suis développeuse --->
   <a href="" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
 </p>
 <details>
-  <sumary> <strong>Ce que j'apprends ces jours-ci : </strong></sumary><br/>
+  <sumary> <strong>Langues et outils:</strong></sumary><br/>
   .Langage de structure, de mise en forme et de programmation:
                HTML5, CSS3, SQL, JavaScript et PHP <br/>
   .Frameworks: Bootstrap, Jquery et Laravel <br/>
