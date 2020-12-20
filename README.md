@@ -1,5 +1,5 @@
 <!---# ![sadouni-khouira](https://github.com/sadouni-khouira/sadouni-khouira/blob/main/images.jpeg)--->
-< img align = center width=50% src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/gifdev.gif"> <br/>
+< img align ='center' width=50% src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/gifdev.gif"> <br/>
 <!---### salut
 Je suis développeuse --->
    <!---  <p align='center'>    --->
