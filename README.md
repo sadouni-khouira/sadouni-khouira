@@ -9,18 +9,18 @@ Je suis développeuse --->
   <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
 </p>
 <details>
-  <sumary> <strong>Langues et outils:Langage de structure, de mise en forme et de programmation:</strong></sumary><br/>
+  <sumary> <strong>Langues et outils , langage de structure, de mise en forme et de programmation:</strong></sumary><br/>
               <!--- HTML5, CSS3, SQL, JavaScript et PHP <br/>--->
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/TOUT.png"> <br/>
  <!--- .Frameworks: Bootstrap, Jquery et Laravel <br/>--->
    
   <!---.Mise en place de Responsive Design, mise en place du versionning <br/> --->                                                 
-  .<h3  style="text-decoration:underline">SGBD:</h3>    
+  .<h3>SGBD:</h3>    
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/SQL1.jpeg"> <br/>
-   .Initiation aux méthodes Agile. <br/>
+   .<h3>Initiation aux méthodes Agile.</h3> <br/>
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/AGIL.jpg"> <br/>
    <br/>
-  .Certification OPQUAST "Maîtrise de la qualité en projet Web - V4"<br/><br/> 
+  .<h3>Certification OPQUAST "Maîtrise de la qualité en projet Web - V4"</h3><br/><br/> 
   <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/opquast.png"> <br/>
        
          Avancement :100 %
