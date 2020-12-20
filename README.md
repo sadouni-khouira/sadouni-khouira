@@ -1,10 +1,10 @@
 <!---# ![sadouni-khouira](https://github.com/sadouni-khouira/sadouni-khouira/blob/main/images.jpeg)--->
 <!---<img  width=50%   margin-right:80px src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/gifdev.gif"> <br/>--->
-<img width=80% height=50% src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/images.jpeg"> <br/>
+<img width=900px height=300px src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/images.jpeg"> <br/>
 <!---### salut
 Je suis développeuse --->
    <!---  <p align='center'>    --->
-  <p>
+  <p  align='center'>
   <a href="https://github.com/sadouni-khouira" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/github.png"></a>
   <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
 </p>
@@ -15,7 +15,7 @@ Je suis développeuse --->
  <!--- .Frameworks: Bootstrap, Jquery et Laravel <br/>--->
    
   <!---.Mise en place de Responsive Design, mise en place du versionning <br/> --->                                                 
-  .SGBD:    
+  .<h3  style="text-decoration:underline">SGBD:</h3>    
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/SQL1.jpeg"> <br/>
    .Initiation aux méthodes Agile. <br/>
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/AGIL.jpg"> <br/>
