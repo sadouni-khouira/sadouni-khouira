@@ -9,7 +9,7 @@ Je suis développeuse --->
   <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
 </p>
 <details>
-  <sumary> <strong>Langues et outils , langage de structure, de mise en forme et de programmation:</strong></sumary><br/>
+  <sumary> <strong>Langues et outils : Langage de structure, de mise en forme et de programmation:</strong></sumary><br/><br/>
               <!--- HTML5, CSS3, SQL, JavaScript et PHP <br/>--->
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/TOUT.png"> <br/>
  <!--- .Frameworks: Bootstrap, Jquery et Laravel <br/>--->
