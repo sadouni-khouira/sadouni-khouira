@@ -1,6 +1,6 @@
 <!---# ![sadouni-khouira](https://github.com/sadouni-khouira/sadouni-khouira/blob/main/images.jpeg)--->
 <!---<img  width=50%   margin-right:80px src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/gifdev.gif"> <br/>--->
-<img width=900px height=300px src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/images.jpeg"> <br/>
+<img width=800px height=300px src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/images.jpeg"> <br/>
 <!---### salut
 Je suis développeuse --->
    <!---  <p align='center'>    --->
