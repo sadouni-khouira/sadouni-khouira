@@ -5,7 +5,7 @@ Je suis développeuse --->
    <!---  <p align='center'>    --->
   <p>
   <a href="https://github.com/sadouni-khouira" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/github.png"></a>
-  <a href="" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
+  <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
 </p>
 <details>
   <sumary> <strong>Langues et outils:Langage de structure, de mise en forme et de programmation:</strong></sumary><br/>
