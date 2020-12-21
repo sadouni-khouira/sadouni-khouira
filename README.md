@@ -10,13 +10,13 @@ Je suis développeuse --->
 </p>
 <details>
 <br/>
-    <summary><b> Langues et outils : </b></summary>
+    <summary><b> Langues et outils</summary>
 <!-----<sumary> <strong>------>
      <h3> Langage de structure, de mise en forme et de programmation:</h3>
        <!---- </strong></sumary><br/><br/>------>
             
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/TOUT.png">   <br/>
-   [<img  alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/visual-studio-code.png" />
+   <img  alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/visual-studio-code.png">
  
  <!--- .Frameworks: Bootstrap, Jquery et Laravel <br/>--->
    
