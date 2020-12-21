@@ -10,14 +10,17 @@ Je suis développeuse --->
 </p>
 <details>
 <br/>
+    <summary><b> Langues et outils : </b></summary>
 <!-----<sumary> <strong>------>
-     <h3>Langues et outils : Langage de structure, de mise en forme et de programmation:</h3>
+     <h3> Langage de structure, de mise en forme et de programmation:</h3>
        <!---- </strong></sumary><br/><br/>------>
             
-   <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/TOUT.png"> <br/>
+   <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/TOUT.png">   <br/>
+   [<img  alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/GroovyHooked/GroovyHooked/main/visual-studio-code.png" />
+ 
  <!--- .Frameworks: Bootstrap, Jquery et Laravel <br/>--->
    
-  <!---.Mise en place de Responsive Design, mise en place du versionning <br/> --->                                                 
+  <!---.Mise en place de Responsive Design, mise en place du versionning <br/> --->                                                  
   .<h3>SGBD:</h3>    
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/SQL1.jpeg"> <br/>
    .<h3>Initiation aux méthodes Agile.</h3> <br/>
