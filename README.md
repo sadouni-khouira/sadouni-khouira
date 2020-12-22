@@ -12,7 +12,7 @@ Je suis développeuse --->
 <br/>
     <summary><b> Langues et outils</summary>
 <!-----<sumary> <strong>------>
-     <h3> Langage de structure, de mise en forme et de programmation:</h3>
+     <h3> Langage de structure, de mise en forme et de programmation :</h3>
        <!---- </strong></sumary><br/><br/>------>
             
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/TOUT.png">   <br/>
@@ -21,9 +21,9 @@ Je suis développeuse --->
  <!--- .Frameworks: Bootstrap, Jquery et Laravel <br/>--->
    
   <!---.Mise en place de Responsive Design, mise en place du versionning <br/> --->                                                  
-  .<h3>SGBD:</h3>    
+  .<h3>SGBD :</h3>    
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/SQL1.jpeg"> <br/>
-   .<h3>Initiation aux méthodes Agile.</h3> <br/>
+   .<h3>Initiation aux méthodes Agile .</h3> <br/>
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/AGIL.jpg"> <br/>
    <br/>
   .<h3>Certification OPQUAST "Maîtrise de la qualité en projet Web - V4"</h3><br/><br/> 
