@@ -47,6 +47,7 @@ Je suis développeuse --->
       <details>
       <br/>
       <summary><b> CVkhouira.pdf</summary>
-      <!---   <embed src="CVkhouira.pdf" width="800px" height="2100px" />---->
+      <!---   <a href="https://github.com/sadouni-khouira" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/github.png"></a>
+         <embed src="CVkhouira.pdf" width="800px" height="2100px" />---->
       
        </details>
