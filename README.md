@@ -27,7 +27,7 @@ Je suis développeuse --->
    .<h3>Initiation aux méthodes Agile .</h3> <br/>
   <!--- <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/AGIL.jpg"> <br/>---->
    <br/>
-    <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img  height="80" width="80px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
+    <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img  height="500" width="800px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/imageagile.jpg"></a>
    
 
    
