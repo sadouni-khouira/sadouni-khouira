@@ -8,6 +8,7 @@ Je suis développeuse --->
   <a href="https://github.com/sadouni-khouira" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/github.png"></a>
   <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
 </p>
+  <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
 <details>
 <br/>
     <summary><b> Langues et outils</summary>
@@ -44,11 +45,6 @@ Je suis développeuse --->
    
     
 </details>
-    <!---   <details>
-      <br/>
-      <summary><b> CVkhouira.pdf</summary>  --------------->
-       <a href="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/CVkhouira.pdf" >
-      <!---   <a href="https://github.com/sadouni-khouira" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/github.png"></a>
-         <embed src="CVkhouira.pdf" width="800px" height="2100px" />---->
+ 
       
       
