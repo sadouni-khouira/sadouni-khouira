@@ -28,7 +28,10 @@ Je suis développeuse --->
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/AGIL.jpg"> <br/>
    <br/>
    
-  <video src="https://discord.com/channels/722075455699812427/722080210047991818" controls>
+     <a href="https://www.youtube.com/watch?v=NnrI77xVMOc" ><img  height="80" width="80px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
+   
+   
+  <video src="https://www.youtube.com/watch?v=NnrI77xVMOc" controls>
   Votre navigateur ne gère pas l'élément <code>voir la video</code>.
 </video>
    
