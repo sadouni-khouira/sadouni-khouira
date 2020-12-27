@@ -44,11 +44,11 @@ Je suis développeuse --->
    
     
 </details>
-      <details>
+    <!---   <details>
       <br/>
-      <summary><b> CVkhouira.pdf</summary>
+      <summary><b> CVkhouira.pdf</summary>  --------------->
        <a href="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/CVkhouira.pdf" >
       <!---   <a href="https://github.com/sadouni-khouira" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/github.png"></a>
          <embed src="CVkhouira.pdf" width="800px" height="2100px" />---->
       
-       </details>
+      
