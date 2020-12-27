@@ -25,15 +25,11 @@ Je suis développeuse --->
   .<h3>SGBD :</h3>    
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/SQL1.jpeg"> <br/>
    .<h3>Initiation aux méthodes Agile .</h3> <br/>
-   <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/AGIL.jpg"> <br/>
+  <!--- <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/AGIL.jpg"> <br/>---->
    <br/>
+    <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img  height="80" width="80px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
    
-     <a href="https://www.youtube.com/watch?v=NnrI77xVMOc" ><img  height="80" width="80px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
-   
-   
-  <video src="https://www.youtube.com/watch?v=NnrI77xVMOc" controls>
-  Votre navigateur ne gère pas l'élément <code>voir la video</code>.
-</video>
+
    
    
   .<h3>Certification OPQUAST "Maîtrise de la qualité en projet Web - V4"</h3><br/><br/> 
