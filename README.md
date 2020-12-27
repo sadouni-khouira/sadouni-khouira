@@ -8,7 +8,7 @@ Je suis développeuse --->
   <a href="https://github.com/sadouni-khouira" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/github.png"></a>
   <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
 </p>
-  <a href="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/CVkhouira.pdf" ><img height="24" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
+  <a href="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/CVkhouira.pdf" ><img height="400" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/cv2.jpeg"></a>
 <details>
 <br/>
     <summary><b> Langues et outils</summary>
