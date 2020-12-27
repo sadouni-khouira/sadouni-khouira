@@ -47,4 +47,5 @@ Je suis développeuse --->
       <details>
       <br/>
       <summary><b> Mom CV</summary>
+         CVkhouira.pdf
        </details>
