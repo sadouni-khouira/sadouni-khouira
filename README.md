@@ -27,6 +27,12 @@ Je suis développeuse --->
    .<h3>Initiation aux méthodes Agile .</h3> <br/>
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/AGIL.jpg"> <br/>
    <br/>
+   
+  <video src="https://discord.com/channels/722075455699812427/722080210047991818" controls>
+  Votre navigateur ne gère pas l'élément <code>voir la video</code>.
+</video>
+   
+   
   .<h3>Certification OPQUAST "Maîtrise de la qualité en projet Web - V4"</h3><br/><br/> 
   <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/opquast.png"> <br/>
        
