@@ -24,15 +24,11 @@ Je suis développeuse --->
   <!---.Mise en place de Responsive Design, mise en place du versionning <br/> --->                                                  
   .<h3>SGBD :</h3>    
    <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/SQL1.jpeg"> <br/>
-   .<h3>Initiation aux méthodes Agile .</h3> <br/>
-  <!--- <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/AGIL.jpg"> <br/>---->
+   .<h3>Initiation aux méthodes Agile .Appuyer sur l'image !</h3> <br/>
    <br/>
     <a href="https://www.youtube.com/watch?v=NnrI77xVMOc" ><img  height="500" width="800px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/imageagile.jpg"></a>
    
-
-   
-   
-  .<h3>Certification OPQUAST "Maîtrise de la qualité en projet Web - V4"</h3><br/><br/> 
+.<h3>Certification OPQUAST "Maîtrise de la qualité en projet Web - V4"</h3><br/><br/> 
   <img src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/opquast.png"> <br/>
        
          Avancement :100 %
