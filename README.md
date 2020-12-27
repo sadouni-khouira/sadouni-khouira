@@ -46,7 +46,7 @@ Je suis développeuse --->
 </details>
       <details>
       <br/>
-      <summary><b> Mom CV</summary>
-         <embed src="CVkhouira.pdf" width="800px" height="2100px" />
+      <summary><b> CVkhouira.pdf</summary>
+      <!---   <embed src="CVkhouira.pdf" width="800px" height="2100px" />---->
       
        </details>
