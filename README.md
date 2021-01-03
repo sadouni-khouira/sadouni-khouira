@@ -14,7 +14,7 @@ Je suis développeuse --->
      
 <details>
 <br/>
-   <h2> <summary><b> Langues et outils</summary> </h2>
+   <summary><b> Langues et outils</summary> 
 <!-----<sumary> <strong>------>
      <h3> Langage de structure, de mise en forme et de programmation :</h3>
        <!---- </strong></sumary><br/><br/>------>
