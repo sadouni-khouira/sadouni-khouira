@@ -10,11 +10,11 @@ Je suis développeuse --->
   
   <a href="https://github.com/sadouni-khouira" ><img  height="80" width="80px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/github.png"></a>
   <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img  height="80" width="80px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
- <a href="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/CVkhouira.pdf" ><img height="100" width="100px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/cv2.jpeg"></a>
+ <a href="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/CVkhouira.pdf" ><img height="150" width="150px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/cv2.jpeg"></a>
      
 <details>
 <br/>
-    <summary><b> Langues et outils</summary>
+   <h2> <summary><b> Langues et outils</summary> </h2>
 <!-----<sumary> <strong>------>
      <h3> Langage de structure, de mise en forme et de programmation :</h3>
        <!---- </strong></sumary><br/><br/>------>
