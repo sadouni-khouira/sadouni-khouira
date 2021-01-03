@@ -1,14 +1,17 @@
 <!---# ![sadouni-khouira](https://github.com/sadouni-khouira/sadouni-khouira/blob/main/images.jpeg)--->
-<img align='center' width=50%   margin-right:80px src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/gifdev.gif"> <br/>
+<!-----<img align='center' width=50%   margin-right:80px src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/gifdev.gif"> <br/>)----->
+<img align='center' width=100% height="400" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/IMG5.jpg">
+
+<br/>
 <!---<img width=800px height=300px src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/images.jpeg"> <br/>---->
 <!---### salut
 Je suis développeuse --->
    <!---  <p align='center'>    --->
-  <p>
+  
   <a href="https://github.com/sadouni-khouira" ><img  height="80" width="80px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/github.png"></a>
   <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img  height="80" width="80px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
-</p>
-     <a href="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/CVkhouira.pdf" ><img height="150" width="150px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/cv2.jpeg"></a>
+ <a href="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/CVkhouira.pdf" ><img height="100" width="100px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/cv2.jpeg"></a>
+     
 <details>
 <br/>
     <summary><b> Langues et outils</summary>
