@@ -5,7 +5,7 @@
 <br/>
   
   <a href="https://github.com/sadouni-khouira" ><img  height="40" width="40px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/github.png"></a>
-  <a href="linkedin.com/in/khouira-sadouni-8a8359139" ><img  height="40" width="40px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>
+<!---  <a href="linkedin.com/in/khouira-sadouni- 8a8359139" ><img  height="40" width="40px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/linkedin.png"></a>--->
  <a href="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/CVkhouira.pdf" ><img height="100" width="100px" src="https://github.com/sadouni-khouira/sadouni-khouira/blob/main/cv2.jpeg"></a>
      
 <details>
